@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Dat - Fresher Software Developer
 
 I'm a student of University of Information Technology (<a href="https://uit.edu.vn">https://uit.edu.vn/</a>)
-<br>
+<hr/>
 
 ### <h2 align="center">:muscle: My skills :muscle:</h2>
 <p align="center">
@@ -21,18 +21,16 @@ I'm a student of University of Information Technology (<a href="https://uit.edu.
   <img src="https://img.shields.io/badge/VS%20Code-grey?logo=visual-studio-code&logoColor=007ACC" alt="VS Code" height="30"/>
   <img src="https://img.shields.io/badge/Docker-grey?logo=docker" alt="Docker" height="30"/>
 </p>
-<br>
+<hr/>
 
 ### <h2 align="center">✨ My Github ✨</h2>
 <p align="center">
   <picture>
     <img src="https://github-readme-stats.vercel.app/api?username=lamquocdat&show_icons=true&theme=radical&hide_border=true"/>
   </picture>
-  <hr/>
   <picture>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamquocdat&layout=compact&show_icons=true&theme=radical&hide_border=true" height="190"/>
   </picture>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <picture>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lamquocdat&theme=radical&utcOffset=7" height="190"/>
   </picture>
@@ -40,7 +38,7 @@ I'm a student of University of Information Technology (<a href="https://uit.edu.
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lamquocdat&theme=radical"/>
   </picture>
 </p>
-<br>
+<hr/>
 
 ### <h2 align="center">📫 How to reach me 📫</h2>
 <p align="center">
