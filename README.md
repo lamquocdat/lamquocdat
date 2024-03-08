@@ -1,5 +1,27 @@
 ### Hi there 👋 I'm Dat
 
+I'm a student of University of Information Technology (<a href="https://uit.edu.vn">https://uit.edu.vn/</a>)
+
+### <p align="center">:muscle: My skills :muscle:</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Nodejs-grey?logo=node.js" alt="Nodejs"/>
+  <img src="https://img.shields.io/badge/Express-grey?logo=express" alt="Express"/>
+  <img src="https://img.shields.io/badge/Reactjs-grey?logo=react" alt="Reactjs"/>
+  <img src="https://img.shields.io/badge/Javascipt-grey?logo=javascript" alt="Javascipt"/>
+  <img src="https://img.shields.io/badge/Laravel-grey?logo=laravel" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/Php-grey?logo=php" alt="Php"/>
+  <img src="https://img.shields.io/badge/PostgesSQL-grey?logo=postgresql" alt="Postgre SQL"/>
+  <img src="https://img.shields.io/badge/MongoDb-grey?logo=mongodb" alt="MongoDb"/>
+  <img src="https://img.shields.io/badge/Boostrap-grey?logo=bootstrap" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-grey?logo=tailwindcss" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Git-grey?logo=git" alt="Git"/>
+  <img src="https://img.shields.io/badge/VS%20Code-grey?logo=visual-studio-code&logoColor=007ACC" alt="VS Code"/>
+</p>
+
+### <p align="center">📫 How to reach me 📫</p>
+
+
 <!--
 **lamquocdat/lamquocdat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
