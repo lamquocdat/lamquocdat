@@ -11,32 +11,32 @@ I'm a student of University of Information Technology (<a href="https://uit.edu.
   <img src="https://img.shields.io/badge/Javascipt-grey?logo=javascript" alt="Javascipt"/>
   <img src="https://img.shields.io/badge/Laravel-grey?logo=laravel" alt="Laravel"/>
   <img src="https://img.shields.io/badge/Php-grey?logo=php" alt="Php"/>
+  <img src="https://img.shields.io/badge/Flask-grey?logo=flask" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Python-grey?logo=python" alt="Python"/>
   <img src="https://img.shields.io/badge/PostgesSQL-grey?logo=postgresql" alt="Postgre SQL"/>
   <img src="https://img.shields.io/badge/MongoDb-grey?logo=mongodb" alt="MongoDb"/>
   <img src="https://img.shields.io/badge/Boostrap-grey?logo=bootstrap" alt="Bootstrap"/>
   <img src="https://img.shields.io/badge/Tailwind%20CSS-grey?logo=tailwindcss" alt="Tailwind CSS"/>
   <img src="https://img.shields.io/badge/Git-grey?logo=git" alt="Git"/>
   <img src="https://img.shields.io/badge/VS%20Code-grey?logo=visual-studio-code&logoColor=007ACC" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Docker-grey?logo=docker" alt="Docker"/>
 </p>
 
 ### <p align="center">📫 How to reach me 📫</p>
 
-<p align="center">
-  <span style="display: inline-block; margin-right: 20px;">
-    <a href="https://www.linkedin.com/in/lam-quoc-dat/">
-      <img src="./images/linkedin.svg" alt="Linkedin" width="50"/>
-    </a>
-  </span>
-  <span style="display: inline-block; margin-right: 20px; margin-left: 20px;">
-    <a href="lamdat3302@gmail.com">
-      <img src="./images/email.svg" alt="Email" width="50"/>
-    </a>
-  </span>
-  <span style="display: inline-block; margin-right: 20px;">
-    <a href="https://www.facebook.com/dat.lam.3766/">
-      <img src="./images/facebook.svg" alt="Facebook" width="50"/>
-    </a>
-  </span>
+<p style="display: flex; justify-content: space-evenly; align-items: center;">
+    <span style="display: flex; align-items: center; margin-right: 20px;">
+        <img src="./images/linkedin.svg" alt="Linkedin" width="20" style="margin-right: 10px;"/>
+        <a href="https://www.linkedin.com/in/lam-quoc-dat/">https://www.linkedin.com/in/lam-quoc-dat/</a>
+    </span>
+    <span style="display: flex; align-items: center; margin-right: 100px; margin-left: 100px;">
+        <img src="./images/email.svg" alt="Email" width="20" style="margin-right: 10px;"/>
+        <a href="mailto:lamdat3302@gmail.com">lamdat3302@gmail.com</a>
+    </span>
+    <span style="display: flex; align-items: center; margin-right: 20px;">
+        <img src="./images/facebook.svg" alt="Facebook" width="20" style="margin-right: 10px;"/>
+        <a href="https://www.facebook.com/dat.lam.3766/">https://www.facebook.com/dat.lam.3766/</a>
+    </span>
 </p>
 
 
