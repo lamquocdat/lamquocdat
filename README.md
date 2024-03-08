@@ -33,10 +33,10 @@ I'm a student of University of Information Technology (<a href="https://uit.edu.
   </picture>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <picture>
-    <img src="https://github-readme-stats.vercel.app/api?username=lamquocdat&show_icons=true&theme=radical" height="190"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lamquocdat&theme=radical&utcOffset=7" height="190"/>
   </picture>
   <picture>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lamquocdat&theme=radical&utcOffset=7" width=400/>
+    <img src="https://github-readme-stats.vercel.app/api?username=lamquocdat&show_icons=true&theme=radical" height="200"/>
   </picture>
 </p>
 <br>
