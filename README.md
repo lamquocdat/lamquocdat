@@ -26,11 +26,11 @@ I'm a student of University of Information Technology (<a href="https://uit.edu.
 ### <h2 align="center">✨ My Github ✨</h2>
 <p align="center">
   <picture>
-    <img height=190 src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamquocdat&layout=compact&show_icons=true&theme=radical" height="195"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamquocdat&layout=compact&show_icons=true&theme=radical" height="195"/>
   </picture>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <picture>
-    <img height=190 src="https://github-readme-stats.vercel.app/api?username=lamquocdat&show_icons=true&theme=radical" height="195"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=lamquocdat&show_icons=true&theme=radical" height="195"/>
   </picture>
   <picture>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lamquocdat&theme=radical"/>
