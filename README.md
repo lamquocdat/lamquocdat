@@ -15,7 +15,7 @@ I'm a student of University of Information Technology (<a href="https://uit.edu.
   <img src="https://img.shields.io/badge/Python-grey?logo=python" alt="Python" height="30"/>
   <img src="https://img.shields.io/badge/PostgesSQL-grey?logo=postgresql" alt="Postgre SQL" height="30"/>
   <img src="https://img.shields.io/badge/MongoDb-grey?logo=mongodb" alt="MongoDb" height="30"/>
-  <img src="https://img.shields.io/badge/Boostrap-grey?logo=bootstrap" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/Boostrap-grey?logo=bootstrap" alt="Bootstrap" height="30"/>
   <img src="https://img.shields.io/badge/Tailwind%20CSS-grey?logo=tailwindcss" alt="Tailwind CSS" height="30"/>
   <img src="https://img.shields.io/badge/Git-grey?logo=git" alt="Git" height="30"/>
   <img src="https://img.shields.io/badge/VS%20Code-grey?logo=visual-studio-code&logoColor=007ACC" alt="VS Code" height="30"/>
@@ -27,13 +27,13 @@ I'm a student of University of Information Technology (<a href="https://uit.edu.
 <p align="center">
       <a href="https://www.linkedin.com/in/lam-quoc-dat/">
         <img src="./images/linkedin.svg" alt="Linkedin" width="40"/>
-      </a>     
+      </a>{"     "}
       <a href="mailto:lamdat3302@gmail.com">
         <img src="./images/email.svg" alt="Email" width="40"/>
-      </a>     
+      </a>{"     "}   
       <a href="https://www.facebook.com/dat.lam.3766/">
         <img src="./images/facebook.svg" alt="Facebook" width="40"/>
-      </a>
+      </a>{"     "}
 </p>
 
 
