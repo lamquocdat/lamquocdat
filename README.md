@@ -27,13 +27,15 @@ I'm a student of University of Information Technology (<a href="https://uit.edu.
 <p align="center">
       <a href="https://www.linkedin.com/in/lam-quoc-dat/">
         <img src="./images/linkedin.svg" alt="Linkedin" width="40"/>
-      </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      </a>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="mailto:lamdat3302@gmail.com">
         <img src="./images/email.svg" alt="Email" width="40"/>
-      </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      </a>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://www.facebook.com/dat.lam.3766/">
         <img src="./images/facebook.svg" alt="Facebook" width="40"/>
-      </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      </a>
 </p>
 
 
