@@ -2,6 +2,7 @@
 
 I'm a student of University of Information Technology (<a href="https://uit.edu.vn">https://uit.edu.vn/</a>)
 <br>
+
 ### <h2 align="center">:muscle: My skills :muscle:</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Nodejs-grey?logo=node.js" alt="Nodejs" height="30"/>
@@ -21,6 +22,7 @@ I'm a student of University of Information Technology (<a href="https://uit.edu.
   <img src="https://img.shields.io/badge/Docker-grey?logo=docker" alt="Docker" height="30"/>
 </p>
 <br>
+
 ### <h2 align="center">✨ GitHub Stats ✨</h2>
 <p align="center">
   <picture>
@@ -32,6 +34,7 @@ I'm a student of University of Information Technology (<a href="https://uit.edu.
   </picture>
 </p>
 <br>
+
 ### <h2 align="center">📫 How to reach me 📫</h2>
 <p align="center">
     <a href="https://www.linkedin.com/in/lam-quoc-dat/">
