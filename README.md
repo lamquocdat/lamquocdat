@@ -5,41 +5,37 @@ I'm a student of University of Information Technology (<a href="https://uit.edu.
 ### <p align="center">:muscle: My skills :muscle:</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Nodejs-grey?logo=node.js" alt="Nodejs"/>
-  <img src="https://img.shields.io/badge/Express-grey?logo=express" alt="Express"/>
-  <img src="https://img.shields.io/badge/Reactjs-grey?logo=react" alt="Reactjs"/>
-  <img src="https://img.shields.io/badge/Javascipt-grey?logo=javascript" alt="Javascipt"/>
-  <img src="https://img.shields.io/badge/Laravel-grey?logo=laravel" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/Php-grey?logo=php" alt="Php"/>
-  <img src="https://img.shields.io/badge/Flask-grey?logo=flask" alt="Flask"/>
-  <img src="https://img.shields.io/badge/Python-grey?logo=python" alt="Python"/>
-  <img src="https://img.shields.io/badge/PostgesSQL-grey?logo=postgresql" alt="Postgre SQL"/>
-  <img src="https://img.shields.io/badge/MongoDb-grey?logo=mongodb" alt="MongoDb"/>
+  <img src="https://img.shields.io/badge/Nodejs-grey?logo=node.js" alt="Nodejs" height="40"/>
+  <img src="https://img.shields.io/badge/Express-grey?logo=express" alt="Express" height="40"/>
+  <img src="https://img.shields.io/badge/Reactjs-grey?logo=react" alt="Reactjs" height="40"/>
+  <img src="https://img.shields.io/badge/Javascipt-grey?logo=javascript" alt="Javascipt" height="40"/>
+  <img src="https://img.shields.io/badge/Laravel-grey?logo=laravel" alt="Laravel" height="40"/>
+  <img src="https://img.shields.io/badge/Php-grey?logo=php" alt="Php" height="40"/>
+  <img src="https://img.shields.io/badge/Flask-grey?logo=flask" alt="Flask" height="40"/>
+  <img src="https://img.shields.io/badge/Python-grey?logo=python" alt="Python" height="40"/>
+  <img src="https://img.shields.io/badge/PostgesSQL-grey?logo=postgresql" alt="Postgre SQL" height="40"/>
+  <img src="https://img.shields.io/badge/MongoDb-grey?logo=mongodb" alt="MongoDb" height="40"/>
   <img src="https://img.shields.io/badge/Boostrap-grey?logo=bootstrap" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-grey?logo=tailwindcss" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Git-grey?logo=git" alt="Git"/>
-  <img src="https://img.shields.io/badge/VS%20Code-grey?logo=visual-studio-code&logoColor=007ACC" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Docker-grey?logo=docker" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-grey?logo=tailwindcss" alt="Tailwind CSS" height="40"/>
+  <img src="https://img.shields.io/badge/Git-grey?logo=git" alt="Git" height="40"/>
+  <img src="https://img.shields.io/badge/VS%20Code-grey?logo=visual-studio-code&logoColor=007ACC" alt="VS Code" height="40"/>
+  <img src="https://img.shields.io/badge/Docker-grey?logo=docker" alt="Docker" height="40"/>
 </p>
 
 ### <p align="center">📫 How to reach me 📫</p>
 
-<p style="display: flex; justify-content: space-evenly; align-items: center;">
-    <span style="display: flex; align-items: center; margin-right: 20px;">
-        <a href="https://www.linkedin.com/in/lam-quoc-dat/">
-          <img src="./images/linkedin.svg" alt="Linkedin" width="40"/>
-        </a>
-    </span>
-    <span style="display: flex; align-items: center; margin-right: 100px; margin-left: 100px;">
-        <a href="mailto:lamdat3302@gmail.com">
-        <img src="./images/email.svg" alt="Email" width="40"/>
-        </a>
-    </span>
-    <span style="display: flex; align-items: center; margin-right: 40px;">
-        <a href="https://www.facebook.com/dat.lam.3766/">
-          <img src="./images/facebook.svg" alt="Facebook" width="40"/>
-        </a>
-    </span>
+<p align="center">
+      <a href="https://www.linkedin.com/in/lam-quoc-dat/">
+        <img src="./images/linkedin.svg" alt="Linkedin" width="40"/>
+      </a>
+
+      <a href="mailto:lamdat3302@gmail.com">
+      <img src="./images/email.svg" alt="Email" width="40"/>
+      </a>
+
+      <a href="https://www.facebook.com/dat.lam.3766/">
+        <img src="./images/facebook.svg" alt="Facebook" width="40"/>
+      </a>
 </p>
 
 
