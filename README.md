@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Dat - Fresher Software Developer
 
 I'm a student of University of Information Technology (<a href="https://uit.edu.vn">https://uit.edu.vn/</a>)
-
 <br>
 
 ### <h2 align="center">:muscle: My skills :muscle:</h2>
@@ -23,7 +22,6 @@ I'm a student of University of Information Technology (<a href="https://uit.edu.
   <img src="https://img.shields.io/badge/VS%20Code-grey?logo=visual-studio-code&logoColor=007ACC" alt="VS Code" height="30"/>
   <img src="https://img.shields.io/badge/Docker-grey?logo=docker" alt="Docker" height="30"/>
 </p>
-
 <br>
 
 ### <h2 align="center">📫 How to reach me 📫</h2>
