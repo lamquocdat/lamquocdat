@@ -1,8 +1,10 @@
-### Hi there 👋 I'm Dat
+### Hi there 👋 I'm Dat - Fresher Software Developer
 
 I'm a student of University of Information Technology (<a href="https://uit.edu.vn">https://uit.edu.vn/</a>)
 
-### <p align="center">:muscle: My skills :muscle:</p>
+<hr style="border-top: 1px dashed #8c8b8b;" />
+
+### <h2 align="center">:muscle: My skills :muscle:</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Nodejs-grey?logo=node.js" alt="Nodejs" height="30"/>
@@ -22,26 +24,22 @@ I'm a student of University of Information Technology (<a href="https://uit.edu.
   <img src="https://img.shields.io/badge/Docker-grey?logo=docker" alt="Docker" height="30"/>
 </p>
 
-### <p align="center">📫 How to reach me 📫</p>
+<hr style="border-top: 1px dashed #8c8b8b;" />
+
+### <h2 align="center">📫 How to reach me 📫</h2>
 
 <p align="center">
-    <span>
-      <a href="https://www.linkedin.com/in/lam-quoc-dat/">
-        <img src="./images/linkedin.svg" alt="Linkedin" width="40"/>
-      </a>
-    </span>
+    <a href="https://www.linkedin.com/in/lam-quoc-dat/">
+      <img src="./images/linkedin.svg" alt="Linkedin" width="40"/>
+    </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <span>
-      <a href="mailto:lamdat3302@gmail.com">
-        <img src="./images/email.svg" alt="Email" width="40"/>
-      </a>
-    </span>
+    <a href="mailto:lamdat3302@gmail.com">
+      <img src="./images/email.svg" alt="Email" width="40"/>
+    </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <span>
-      <a href="https://www.facebook.com/dat.lam.3766/">
-        <img src="./images/facebook.svg" alt="Facebook" width="40"/>
-      </a>
-    </span>
+    <a href="https://www.facebook.com/dat.lam.3766/">
+      <img src="./images/facebook.svg" alt="Facebook" width="40"/>
+    </a>
 </p>
 
 
