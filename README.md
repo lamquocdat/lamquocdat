@@ -22,21 +22,21 @@ I'm a student of University of Information Technology (<a href="https://uit.edu.
 ### <p align="center">📫 How to reach me 📫</p>
 
 <p align="center">
-  <div style="margin-right: 20px;">
+  <span style="margin-right: 20px;">
     <a href="https://www.linkedin.com/in/lam-quoc-dat/">
       <img src="./images/linkedin.svg" alt="Linkedin" width="50"/>
     </a>
-  </div>
-  <div style="margin-right: 20px; margin-left: 20px;">
+  </span>
+  <span style="margin-right: 20px; margin-left: 20px;">
     <a href="lamdat3302@gmail.com">
       <img src="./images/email.svg" alt="Email" width="50"/>
     </a>
-  </div>
-  <div>
+  </span>
+  <span>
     <a href="https://www.facebook.com/dat.lam.3766/" style="margin-right: 20px;">
       <img src="./images/facebook.svg" alt="Facebook" width="50"/>
     </a>
-  </div>
+  </span>
 </p>
 
 
