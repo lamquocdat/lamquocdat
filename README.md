@@ -25,17 +25,16 @@ I'm a student of University of Information Technology (<a href="https://uit.edu.
 <br>
 
 ### <h2 align="center">🔥 GitHub Stats 🔥</h2>
+
 <p align="center">
   <picture>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamquocdat&layout=compact&show_icons=true&theme=radical"/>
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamquocdat&layout=compact&show_icons=true&theme=radical"/>
   </picture>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <picture>
-    <img src="https://github-readme-stats.vercel.app/api?username=lamquocdat&show_icons=true&theme=radical"/>
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lamquocdat&show_icons=true&theme=radical"/>
   </picture>
 </p>
-<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lamquocdat&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lamquocdat&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
-
 <br>
 
 ### <h2 align="center">📫 How to reach me 📫</h2>
