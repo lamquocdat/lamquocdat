@@ -25,7 +25,7 @@ I'm a student of University of Information Technology (<a href="https://uit.edu.
   <a href="https://www.linkedin.com/in/lam-quoc-dat/">
     <img src="./images/linkedin.svg" alt="Linkedin" width="30"/>
   </a>
-  <a href="lamdat3302@gmail.com" style="margin-right:100; margin-left:100">
+  <a href="lamdat3302@gmail.com" style="margin-right:200px; margin-left:200px;">
     <img src="./images/email.svg" alt="Email" width="30"/>
   </a>
    <a href="https://www.facebook.com/dat.lam.3766/">
