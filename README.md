@@ -24,7 +24,7 @@ I'm a student of University of Information Technology (<a href="https://uit.edu.
 </p>
 <br>
 
-### <h2 align="center">🔥 GitHub Stats 🔥</h2>
+### <h2 align="center">✨ GitHub Stats ✨</h2>
 
 <p align="center">
   <picture>
