@@ -27,17 +27,17 @@ I'm a student of University of Information Technology (<a href="https://uit.edu.
 <p style="display: flex; justify-content: space-evenly; align-items: center;">
     <span style="display: flex; align-items: center; margin-right: 20px;">
         <a href="https://www.linkedin.com/in/lam-quoc-dat/">
-          <img src="./images/linkedin.svg" alt="Linkedin" width="20" style="margin-right: 10px;"/>
+          <img src="./images/linkedin.svg" alt="Linkedin" width="40"/>
         </a>
     </span>
     <span style="display: flex; align-items: center; margin-right: 100px; margin-left: 100px;">
         <a href="mailto:lamdat3302@gmail.com">
-        <img src="./images/email.svg" alt="Email" width="20" style="margin-right: 10px;"/>
+        <img src="./images/email.svg" alt="Email" width="40"/>
         </a>
     </span>
-    <span style="display: flex; align-items: center; margin-right: 20px;">
+    <span style="display: flex; align-items: center; margin-right: 40px;">
         <a href="https://www.facebook.com/dat.lam.3766/">
-          <img src="./images/facebook.svg" alt="Facebook" width="20" style="margin-right: 10px;"/>
+          <img src="./images/facebook.svg" alt="Facebook" width="40"/>
         </a>
     </span>
 </p>
