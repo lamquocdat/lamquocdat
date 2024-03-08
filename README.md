@@ -2,7 +2,7 @@
 
 I'm a student of University of Information Technology (<a href="https://uit.edu.vn">https://uit.edu.vn/</a>)
 
-<hr style="border-top: 1px dashed #8c8b8b;" />
+<br>
 ### <h2 align="center">:muscle: My skills :muscle:</h2>
 
 <p align="center">
@@ -23,7 +23,7 @@ I'm a student of University of Information Technology (<a href="https://uit.edu.
   <img src="https://img.shields.io/badge/Docker-grey?logo=docker" alt="Docker" height="30"/>
 </p>
 
-<hr style="border-top: 1px dashed #8c8b8b;" />
+<br>
 ### <h2 align="center">📫 How to reach me 📫</h2>
 
 <p align="center">
