@@ -23,13 +23,13 @@ I'm a student of University of Information Technology (<a href="https://uit.edu.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lam-quoc-dat/">
-    <img src="./images/linkedin.svg" alt="Linkedin"/>
+    <img src="./images/linkedin.svg" alt="Linkedin" width="100"/>
   </a>
   <a href="lamdat3302@gmail.com">
-    <img src="./images/email.svg" alt="Email"/>
+    <img src="./images/email.svg" alt="Email" width="100"/>
   </a>
    <a href="[lamdat3302@gmail.com](https://www.facebook.com/dat.lam.3766/)">
-    <img src="./images/facebook.svg" alt="Facebook"/>
+    <img src="./images/facebook.svg" alt="Facebook" width="100"/>
   </a>
 </p>
 
