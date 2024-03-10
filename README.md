@@ -32,7 +32,7 @@ I'm a student of University of Information Technology (<a href="https://uit.edu.
     <img src="https://github-readme-stats.vercel.app/api?username=lamquocdat&show_icons=true&theme=radical&hide_border=true" height="190"/>
   </picture>
   <picture>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lamquocdat&theme=radical" width="500"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lamquocdat&theme=radical" width="1000"/>
   </picture>
 </p>
 <br/>
